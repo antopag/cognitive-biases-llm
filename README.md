@@ -120,7 +120,7 @@ If you use this repository, please cite the paper:
 }
 ```
 
-The repository is also permanently archived on Zenodo (DOI to be issued upon release tagging).
+The repository is permanently archived on Zenodo: [https://doi.org/10.5281/zenodo.20406397](https://doi.org/10.5281/zenodo.20406397).
 
 ## License
 

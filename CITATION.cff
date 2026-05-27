@@ -8,6 +8,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-6841-1362"
     affiliation: "INAF IASF Palermo"
 repository-code: "https://github.com/antopag/cognitive-biases-llm"
+doi: "10.5281/zenodo.20406397"
 license: MIT
 preferred-citation:
   type: article
