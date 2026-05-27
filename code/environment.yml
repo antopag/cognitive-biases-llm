@@ -1,0 +1,21 @@
+name: cognitive-biases-llm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy>=1.24
+  - pandas>=2.0
+  - scipy>=1.11
+  - matplotlib>=3.7
+  - seaborn>=0.12
+  - tqdm>=4.65
+  - spyder-kernels
+  - pip
+  - pip:
+    - openai>=1.0
+    - anthropic>=0.30
+    - google-genai>=1.0
+    - mistralai>=1.0
+    - python-dotenv>=1.0
+    - tenacity>=8.2

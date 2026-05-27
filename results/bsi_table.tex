@@ -1,0 +1,51 @@
+\begin{table}[H]
+\caption{Bias Strength Index (BSI) with total uncertainty for all bias--model combinations (Part~A: commercial models). Bold indicates significance after Benjamini--Hochberg correction ($\alpha = 0.05$). Dashes indicate insufficient data due to high parse failure rates.}
+\label{tab:bsi-results}
+\begin{adjustwidth}{-\extralength}{0cm}
+\centering
+\footnotesize
+\begin{tabularx}{\fulllength}{lCCCC}
+\toprule
+\textbf{Bias} & \textbf{Claude 3.5} & \textbf{Gemini 2.5} & \textbf{GPT-4.1m} & \textbf{Mistral} \\
+\midrule
+Anchoring    & .018 $\pm$ .031 & --              & .002 $\pm$ .004 & .007 $\pm$ .016 \\
+Availability & .000 $\pm$ .000 & --              & .115 $\pm$ .230 & .000 $\pm$ .000 \\
+Representat. & .465 $\pm$ .476 & --              & .000 $\pm$ .000 & .080 $\pm$ .136 \\
+Framing      & .393 $\pm$ .511 & .478 $\pm$ .427 & .703 $\pm$ .514 & .667 $\pm$ .577 \\
+Sunk cost    & .242 $\pm$ .485 & .000 $\pm$ .000 & .000 $\pm$ .000 & .000 $\pm$ .000 \\
+Status quo   & .021 $\pm$ .037 & .143 $\pm$ .145 & .000 $\pm$ .000 & .100 $\pm$ .174 \\
+Decoy        & .275 $\pm$ .478 & .370 $\pm$ .398 & .253 $\pm$ .498 & .670 $\pm$ .375 \\
+Confirmation & .000 $\pm$ .000 & .076 $\pm$ .170 & .000 $\pm$ .000 & .000 $\pm$ .000 \\
+Bandwagon    & .472 $\pm$ .537 & .420 $\pm$ .447 & .005 $\pm$ .011 & .023 $\pm$ .040 \\
+Authority    & .000 $\pm$ .000 & .000 $\pm$ .000 & .000 $\pm$ .000 & .000 $\pm$ .000 \\
+Primacy/rec. & 1.00 $\pm$ .000 & 1.00 $\pm$ .000 & .950 $\pm$ .022 & .000 $\pm$ .000 \\
+\bottomrule
+\end{tabularx}
+\end{adjustwidth}
+\end{table}
+
+\begin{table}[H]
+\caption{Bias Strength Index (BSI) with total uncertainty (Part~B: open-weight models). Bold indicates significance after Benjamini--Hochberg correction ($\alpha = 0.05$). Dashes indicate insufficient data due to high parse failure rates.}
+\label{tab:bsi-results-b}
+\begin{adjustwidth}{-\extralength}{0cm}
+\centering
+\footnotesize
+\begin{tabularx}{\fulllength}{lCCCC}
+\toprule
+\textbf{Bias} & \textbf{DeepSeek} & \textbf{Llama 8B} & \textbf{Llama 70B} & \textbf{MiniMax} \\
+\midrule
+Anchoring    & .044 $\pm$ .069 & .241 $\pm$ .450          & .006 $\pm$ .013 & -- \\
+Availability & .019 $\pm$ .031 & .200 $\pm$ .297          & .000 $\pm$ .000 & .000 $\pm$ .000 \\
+Representat. & .113 $\pm$ .194 & .145 $\pm$ .133          & .208 $\pm$ .417 & -- \\
+Framing      & .637 $\pm$ .154 & .700 $\pm$ .247          & .667 $\pm$ .577 & -- \\
+Sunk cost    & .076 $\pm$ .096 & .025 $\pm$ .037          & .000 $\pm$ .000 & .000 $\pm$ .000 \\
+Status quo   & .293 $\pm$ .273 & .322 $\pm$ .191          & .000 $\pm$ .000 & -- \\
+Decoy        & .367 $\pm$ .301 & \textbf{.892 $\pm$ .118} & .500 $\pm$ .577 & -- \\
+Confirmation & .034 $\pm$ .066 & .113 $\pm$ .128          & .000 $\pm$ .000 & .000 $\pm$ .000 \\
+Bandwagon    & .128 $\pm$ .105 & .111 $\pm$ .146          & .000 $\pm$ .000 & -- \\
+Authority    & .013 $\pm$ .021 & .000 $\pm$ .000          & .000 $\pm$ .000 & .000 $\pm$ .000 \\
+Primacy/rec. & .590 $\pm$ .050 & .966 $\pm$ .034          & 1.00 $\pm$ .000 & -- \\
+\bottomrule
+\end{tabularx}
+\end{adjustwidth}
+\end{table}

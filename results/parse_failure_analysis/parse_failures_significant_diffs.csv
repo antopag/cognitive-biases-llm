@@ -1,0 +1,11 @@
+model,bias,ctrl_fail,treat_fail,diff
+claude-3.5-sonnet,status_quo_bias,0.0,0.2966666666666667,0.2966666666666667
+deepseek-v3-together,availability_heuristic,0.0075,0.1,0.0925
+gemini-2.5-flash,overconfidence,0.29333333333333333,0.7866666666666666,0.4933333333333333
+llama-3.3-70b,anchoring,0.0,0.076,0.076
+llama-3.3-70b,sunk_cost_fallacy,0.525,0.6666666666666666,0.1416666666666666
+minimax-m2.5,authority_bias,0.4025,0.7025,0.3
+minimax-m2.5,availability_heuristic,0.62,0.78,0.16000000000000003
+minimax-m2.5,confirmation_bias,0.57,0.742,0.17200000000000004
+minimax-m2.5,representativeness,0.9475,0.7875,-0.16000000000000003
+minimax-m2.5,sunk_cost_fallacy,0.52,0.8825,0.36249999999999993

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Cognitive Biases in Large Language Models: A Decision-Theoretic Framework with Empirical Evidence"
+message: "If you use this software or data, please cite the associated paper."
+type: software
+authors:
+  - family-names: Pagliaro
+    given-names: Antonio
+    orcid: "https://orcid.org/0000-0002-6841-1362"
+    affiliation: "INAF IASF Palermo"
+repository-code: "https://github.com/antopag/cognitive-biases-llm"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Cognitive Biases in Large Language Models: A Decision-Theoretic Framework with Empirical Evidence"
+  authors:
+    - family-names: Pagliaro
+      given-names: Antonio
+      orcid: "https://orcid.org/0000-0002-6841-1362"
+  journal: "Electronics"
+  year: 2026

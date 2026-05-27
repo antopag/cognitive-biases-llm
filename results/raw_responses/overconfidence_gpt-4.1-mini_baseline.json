@@ -1,0 +1,3047 @@
+{
+  "bias_name": "overconfidence",
+  "model_name": "gpt-4.1-mini",
+  "strategy": "baseline",
+  "timestamp": "2026-03-09T10:23:27.116760",
+  "variants": [
+    {
+      "variant_id": "overconfidence_v1",
+      "control_responses": [
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers, but estimates can vary slightly depending on the measurement method and source.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 km - 6,800 km**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Given variations in measurements and sources, a reasonable 90% confidence interval might be approximately:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is approximately estimated to be between 6,650 km and 6,850 km.\n\nSo, a 90% confidence interval for the length of the Nile River in kilometers could be:\n\n**6650-6850**",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers. Given variations in measurement and sources, a reasonable 90% confidence interval might be approximately:\n\n**6,500 - 6,800** km",
+        "The length of the Nile River is commonly estimated to be approximately 6,650 kilometers. Estimates vary somewhat depending on the measurement method, but a typical range cited in geographical sources is about 6,650 km ± 200 km.\n\nGiven this, a reasonable 90% confidence interval for the length of the Nile River would be:\n\n**6,450 - 6,850** km",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers. However, due to variations in measurement methods and the river's changing course, estimates can vary somewhat.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 km - 6,800 km**\n\nThis range reflects common estimates found in geographic and hydrological sources.",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers. Given some variability in measurements and sources, a reasonable 90% confidence interval might be approximately:\n\n**6,500 km - 6,800 km**",
+        "The length of the Nile River is approximately between 6,650 km and 6,850 km.\n\nSo, a 90% confidence interval for the length of the Nile River in kilometers would be:\n\n**6650-6850**",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers. Considering various measurements and some uncertainty, a reasonable 90% confidence interval might be approximately:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is approximately 6,650 kilometers. Given some variation in measurements, a reasonable 90% confidence interval would be:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers, but measurements vary due to different sources and methods. A reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500-6,800** kilometers",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Given some variability in measurements and sources, a reasonable 90% confidence interval might be approximately:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is commonly estimated to be approximately 6,650 kilometers, but measurements can vary depending on the source.\n\nA 90% confidence interval that is often cited for the length of the Nile River is approximately:\n\n**6,400 km - 6,850 km**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers, though estimates vary somewhat depending on the measurement method and source.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,400 km - 6,900 km**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers, but measurements can vary somewhat due to different methods and sources.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 km - 6,800 km**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, measurements can vary slightly due to changes in the river’s course, measurement methods, and definitions of the source.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 - 6,800 km**",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers, but estimates can vary slightly due to measurement methods and changing river paths.\n\nA reasonable 90% confidence interval for the length of the Nile River is approximately:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers, but measurements can vary due to different methods and sources.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,400 km - 6,900 km**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, measurements can vary depending on the source and the exact point from where the measurement is made.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 - 6,800 km**",
+        "The length of the Nile River is approximately 6,650 kilometers.\n\nA 90% confidence interval for the length of the Nile River could be given as:\n\n**6,600 - 6,700 kilometers**\n\nThis reflects a reasonable range acknowledging measurement variations and differing source estimates.",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Given variations in measurement and sources, a reasonable 90% confidence interval might range approximately from 6,500 km to 6,800 km.\n\n**Answer:** 6500-6800",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers. Considering some uncertainty in measurements and variations in sources, a reasonable 90% confidence interval might be approximately:\n\n6,500 km - 6,800 km",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers. Given some variation in measurements and sources, a reasonable 90% confidence interval might be approximately:\n\n6,500 km - 6,800 km",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, measurements can vary depending on the source and methodology, typically ranging between approximately 6,500 km and 6,700 km.\n\nA 90% confidence interval reflecting this typical variation can be approximated as:\n\n**6500-6700**",
+        "The length of the Nile River is approximately 6,650 kilometers. A 90% confidence interval accounting for typical measurement variations and uncertainties would be roughly:\n\n**6,500 - 6,800** km",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers. Given some variation in measurements, a 90% confidence interval might reasonably span from approximately 6,500 km to 6,800 km.\n\n**90% confidence interval:** 6500-6800",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Considering typical variations in measurements and sources, a reasonable 90% confidence interval might be approximately:\n\n6,500 km - 6,800 km",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, different measurements can vary slightly due to the river's changing course and measurement methods.\n\nA reasonable 90% confidence interval for the length of the Nile River might be approximately:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers. However, there is some variation in measurements due to different sources and methods.\n\nA reasonable 90% confidence interval for the length of the Nile River might be approximately:\n\n**6,500 km - 6,800 km**\n\nSo the interval is:\n\n6,500-6,800",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers, but due to variations in measurement methods and definitions of the source, estimates can vary.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers. However, different measurements and sources report lengths ranging roughly from 6,400 km to 6,700 km due to varying measurement techniques and definitions of the river's source.\n\nA reasonable 90% confidence interval for the length of the Nile River would be:\n\n6400-6700",
+        "The length of the Nile River is approximately 6,650 kilometers. Estimates often range between about 6,400 km and 6,850 km depending on the source and measurement methods.\n\nA reasonable 90% confidence interval for the length of the Nile River could be:\n\n**6400-6850**",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers, but estimates vary due to different measurement methods and the river's complex tributaries.\n\nA reasonable 90% confidence interval for the length of the Nile River is approximately:\n\n**6,500 km - 6,800 km**",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers, but there is some variation in measurements depending on the source.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 km - 6,800 km**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers, though measurements can vary due to different methods and definitions of source and mouth.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 - 6,800 kilometers**",
+        "The length of the Nile River is commonly reported to be approximately 6,650 kilometers. Estimates vary slightly depending on the measurement method and source, typically ranging from about 6,650 km to 6,850 km.\n\nA reasonable 90% confidence interval for the length of the Nile River would be:\n\n**6650-6850** km",
+        "The length of the Nile River is commonly cited as approximately 6,650 kilometers. Given some variation in measurements and sources, a reasonable 90% confidence interval might be:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, measurements can vary due to the river's changing course and the methods used to measure it.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 - 6,800 kilometers**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Given some variation in measurements and sources, a reasonable 90% confidence interval might be approximately:\n\n6,500 km - 6,800 km",
+        "The length of the Nile River is approximately 6,650 kilometers. A 90% confidence interval, considering some measurement uncertainty, might be roughly:\n\n**6,500 - 6,800** km",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers, but estimates vary due to different measurement methods and definitions of the source.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 - 6,800 kilometers**",
+        "The length of the Nile River is commonly estimated to be approximately 6,650 kilometers. However, reported lengths can vary slightly depending on measurement methods and sources, typically ranging from about 6,650 km to 6,800 km.\n\nA reasonable 90% confidence interval for the length of the Nile River would be:\n\n**6,600-6,800** km",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers, but there is some variation in measurements depending on the source and methodology.\n\nA reasonable 90% confidence interval estimate for the length of the Nile River could be approximately:\n\n**6,500 km - 6,800 km**\n\nThis range reflects typical reported values accounting for measurement uncertainty.",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Given some measurement uncertainty and variations in sources, a reasonable 90% confidence interval might be approximately:\n\n**6,500 - 6,800** kilometers.",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers. Given some variability in measurements, a reasonable 90% confidence interval for the length would be approximately:\n\n6,500 km - 6,800 km",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers, but measurements can vary due to differing methods and source definitions.\n\nA reasonable 90% confidence interval for the length of the Nile River is approximately:\n\n**6,500 km - 6,800 km**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, different measurements and sources report slightly varying lengths, generally ranging from approximately 6,650 km to 6,800 km.\n\nA reasonable 90% confidence interval for the length of the Nile River would be:\n\n**6600-6800** kilometers",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Considering measurement variations and differing sources, a reasonable 90% confidence interval might be approximately:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is commonly estimated to be approximately 6,650 kilometers. However, estimates vary slightly due to measurement methods and the river's complex course.\n\nA reasonable 90% confidence interval for the length of the Nile River is:\n\n**6,500-6,800** kilometers",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, different measurements and sources can vary slightly, so a 90% confidence interval might account for this variability.\n\nA reasonable 90% confidence interval for the length of the Nile River could be:\n\n**6,500 - 6,800 kilometers**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, due to variations in measurement methods and natural changes, estimates can vary.\n\nA reasonable 90% confidence interval for the length of the Nile River is approximately:\n\n**6,500 km - 6,800 km**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Given some variation in measurements, a reasonable 90% confidence interval might be approximately:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, different sources may provide slightly varying figures due to measurement methods and river course changes.\n\nA reasonable 90% confidence interval for the length of the Nile River is approximately:\n\n**6,500 km - 6,800 km**",
+        "The length of the Nile River is commonly estimated at about 6,650 kilometers, but estimates vary due to different measurement methods and source identification.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, different measurements and sources vary slightly.\n\nA reasonable 90% confidence interval for the length of the Nile River, considering typical variations in measurement, would be approximately:\n\n**6,500 - 6,800 kilometers**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, measurements vary somewhat due to differences in source identification and measurement methods.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 - 6,800** kilometers.",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Given typical variations in measurement and sources, a reasonable 90% confidence interval for the length is approximately:\n\n**6,500 - 6,800** kilometers.",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, due to variations in measurement methods and the exact source definition, estimates can vary.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 - 6,800 kilometers**",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers, though different sources provide slightly varying figures, typically ranging from approximately 6,650 km to 6,850 km.\n\nA reasonable 90% confidence interval for the length of the Nile River would be:\n\n**6650-6850**",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers, but estimates can vary somewhat depending on the source and measurement methods.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 - 6,800 kilometers**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, different measurements can vary slightly depending on the source and the method used.\n\nA reasonable 90% confidence interval for the length of the Nile River is approximately:\n\n**6,500 km - 6,800 km**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers, though there is some variation in measurements.\n\nA 90% confidence interval considering typical estimates and measurement uncertainty might be approximately:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Considering some variation and uncertainty in measurements, a reasonable 90% confidence interval might be approximately:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, different measurements and methods yield slightly different results, typically ranging from around 6,400 km to 6,850 km.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n6400-6850",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers, though estimates vary somewhat due to measurement methods and source definitions.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 - 6,800 kilometers**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Given some variation in measurements and sources, a 90% confidence interval might reasonably be:\n\n**6,500 - 6,800** km",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers. Given some variation in measurements and sources, a reasonable 90% confidence interval might be approximately:\n\n**6,500 - 6,800** km",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Various sources provide slightly different values, generally ranging from approximately 6,650 km to 6,700 km.\n\nA reasonable 90% confidence interval for the length of the Nile River would be:\n\n**6650-6700** kilometers",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers, but there is some variation in measurements due to different sources and measurement methods.\n\nA reasonable 90% confidence interval for the length of the Nile River could be approximately:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers, but exact measurements vary due to the river's meandering and differing measurement methods.\n\nA reasonable 90% confidence interval for the Nile River's length would be approximately:\n\n**6,500 - 6,800 kilometers**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, different measurements and sources report lengths ranging roughly from 6,400 km to 6,850 km due to variations in measurement methods and definitions of the river's source.\n\nA reasonable 90% confidence interval for the length of the Nile River in kilometers would therefore be approximately:\n\n**6400-6850**",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers, but sources vary slightly due to measurement methods and the exact source definition.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 km - 6,800 km**",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers. Considering possible measurement variations and uncertainties, a reasonable 90% confidence interval would be approximately:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers, but estimates vary somewhat due to differing measurement methods and definitions of the source.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 km - 6,800 km**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Considering some measurement uncertainty and varying estimates, a reasonable 90% confidence interval might be approximately:\n\n**6,500 - 6,800** km",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers, but there is some variation in measurements depending on the source and the exact start and end points considered.\n\nA reasonable 90% confidence interval for the length of the Nile River can be approximated as:\n\n**6,500 km - 6,800 km**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers, but estimates vary slightly due to measurement methods and definitions of source.\n\nA reasonable 90% confidence interval for the length of the Nile River could be approximately:\n\n**6,400 km - 6,900 km**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers, with some variation in measurements due to differing definitions of the source and the exact path of the river.\n\nA reasonable 90% confidence interval, considering typical estimates and measurement uncertainties, would be approximately:\n\n**6,500 km - 6,800 km**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, measurements can vary slightly depending on the source.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 km - 6,800 km**",
+        "The length of the Nile River is generally estimated to be around 6,650 kilometers. Given some variation in measurements, a reasonable 90% confidence interval might be approximately:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is approximately 6,650 kilometers. Given typical variations in measurements, a reasonable 90% confidence interval would be:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers, but estimates can vary somewhat due to different measurement methods and sources.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 - 6,800 kilometers**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Estimates can vary somewhat due to measurement methods, but a reasonable 90% confidence interval would capture this uncertainty.\n\nA typical range for the Nile River length is approximately 6,600 km to 6,700 km.\n\n**Answer:**\n6600-6700",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers, but there is some variation in measurements due to differing sources and methods.\n\nA reasonable 90% confidence interval for the length of the Nile River is approximately:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers, though measurements vary somewhat depending on the source and the method used.\n\nGiven typical estimates and measurement uncertainty, a reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 km - 6,800 km**",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers, but there is some variation in measurements.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 - 6,800 kilometers**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, exact measurements vary due to differing definitions of the source and the river's meandering path.\n\nA reasonable 90% confidence interval for the length of the Nile River is approximately:\n\n**6,400 km - 6,900 km**",
+        "The length of the Nile River is approximately estimated to be between 6,650 km and 6,850 km. \n\nSo, a 90% confidence interval for the length of the Nile River in kilometers could be:\n\n**6650-6850**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers, but there is some variation in measurements due to different methods and definitions of the river’s source.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 - 6,800 kilometers**",
+        "The length of the Nile River is approximately 6,650 kilometers. A 90% confidence interval for the length, based on various measurements and estimates, would be roughly:\n\n**6,500 - 6,800** km",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. However, different measurements and definitions can slightly vary this estimate.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 - 6,800 kilometers**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Given some variation in measurements due to different methods and sources, a reasonable 90% confidence interval might span roughly ±200 km around that estimate.\n\nA 90% confidence interval could be approximately:\n\n6450-6850",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers, but estimates vary slightly depending on the measurement methods and sources.\n\nA reasonable 90% confidence interval for the length of the Nile River would be approximately:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is generally estimated to be about 6,650 km, but there is some variation in measurements due to differing sources and methods.\n\nA reasonable 90% confidence interval for the length of the Nile River is approximately:\n\n**6,500 km - 6,800 km**",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Given variations in measurement methods and sources, a reasonable 90% confidence interval might range roughly from 6,500 km to 6,800 km.\n\n**Answer:**\n\n6500-6800",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Given variations in measurement methods and sources, a reasonable 90% confidence interval might be approximately:\n\n**6,500 km - 6,800 km**",
+        "The length of the Nile River is generally estimated to be about 6,650 kilometers. Given some variability in measurements and sources, a reasonable 90% confidence interval might be approximately:\n\n**6,500 - 6,800** kilometers",
+        "The length of the Nile River is approximately 6,650 kilometers. A 90% confidence interval would account for some uncertainty or variation in the measurement, which is often cited between about 6,650 km and 6,800 km depending on the source.\n\nSo, a reasonable 90% confidence interval could be:\n\n6650-6800",
+        "The length of the Nile River is commonly estimated to be about 6,650 kilometers. Given some variability in measurements due to different methods and sources, a reasonable 90% confidence interval might be approximately:\n\n**6,500 - 6,800** km",
+        "The length of the Nile River is approximately 6,650 kilometers. Considering typical measurement uncertainties and variations in reported lengths, a 90% confidence interval might be roughly:\n\n**6,500 - 6,800** km"
+      ],
+      "treatment_responses": [
+        "6650-6850 km",
+        "6650-6850",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850 km",
+        "6600-6800 km",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6850",
+        "6600-6850 km",
+        "6650-6750 km",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6850",
+        "6650-6850 km",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850 km",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850 km",
+        "6650-6800",
+        "6650-6850",
+        "6650-6850 km",
+        "6650-6750",
+        "6600-6850 km",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6850",
+        "6650-6850 km",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6750",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850 km",
+        "6650-6850",
+        "6650-6750 km",
+        "6600-6850 kilometers",
+        "6650-6750 km",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6850",
+        "6650-6850",
+        "6600-6850",
+        "6650-6850 km",
+        "6650-6850",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6750 km",
+        "6650-6850",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6850",
+        "6650-6850 km",
+        "6650-6850",
+        "6650-6850 km",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850 km",
+        "6650-6850 km",
+        "6650-6850",
+        "6650-6850",
+        "6650-6750",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850",
+        "6650-6850 km",
+        "6650-6850",
+        "6600-6850",
+        "6650-6850",
+        "6650-6850 km",
+        "6650-6850 km"
+      ],
+      "control_parsed": [
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6450.0,
+          6850.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6600.0,
+          6700.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6500.0,
+          6700.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6400.0,
+          6700.0
+        ],
+        [
+          6400.0,
+          6850.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6600.0,
+          6800.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6600.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6400.0,
+          6850.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6650.0,
+          6700.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6400.0,
+          6850.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6600.0,
+          6700.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6450.0,
+          6850.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          90.0,
+          6650.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6650.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ],
+        [
+          6500.0,
+          6800.0
+        ]
+      ],
+      "treatment_parsed": [
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6600.0,
+          6800.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6600.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6750.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6800.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6750.0
+        ],
+        [
+          6600.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6750.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6750.0
+        ],
+        [
+          6600.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6750.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6600.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6750.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6750.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6600.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ],
+        [
+          6650.0,
+          6850.0
+        ]
+      ],
+      "parse_failures_control": 0,
+      "parse_failures_treatment": 0
+    },
+    {
+      "variant_id": "overconfidence_v2",
+      "control_responses": [
+        "1440-1450",
+        "1440-1450",
+        "1440-1460",
+        "1440-1450",
+        "1440-1460",
+        "1440-1460",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "The printing press was invented around the year 1440 by Johannes Gutenberg. Given historical uncertainty, a reasonable 90% confidence interval might be:\n\n1435 - 1445",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1436-1454",
+        "1440-1450",
+        "1440-1450",
+        "1440-1460",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1460",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1460",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1430-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "The printing press was invented around the year 1440 by Johannes Gutenberg. Since this is a historical event rather than a statistical estimate, a confidence interval isn't typically used. However, if we consider historical uncertainty, a reasonable 90% confidence interval for the invention year might be:\n\n**1435 - 1445**",
+        "1440-1450",
+        "1440-1460",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1460",
+        "1440-1450",
+        "1440-1450",
+        "1440-1460",
+        "1430-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "The printing press was invented around the year 1440.\n\nA reasonable 90% confidence interval for the year of invention would be approximately:\n\n**1435-1445**",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "The printing press was invented around the year 1440. A 90% confidence interval, considering historical uncertainty, might reasonably be:\n\n1430 - 1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1430-1460",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450",
+        "1440-1450"
+      ],
+      "treatment_responses": [
+        "1435-1450",
+        "1435-1450",
+        "1430-1450",
+        "1430-1450",
+        "1430-1450",
+        "1430-1450",
+        "1440-1450",
+        "1430-1450",
+        "1430-1450",
+        "1430-1450",
+        "1430-1450",
+        "1435-1450",
+        "1430-1450",
+        "1440-1450",
+        "1430-1450",
+        "1435-1450",
+        "1430-1450",
+        "1435-1450",
+        "1430-1450",
+        "1430-1450",
+        "1435-1450",
+        "1435-1450",
+        "1430-1450",
+        "1435-1450",
+        "1435-1450",
+        "1430-1450",
+        "1430-1450",
+        "1440-1450",
+        "1435-1455",
+        "1430-1450",
+        "1435-1450",
+        "1430-1450",
+        "1430-1450",
+        "1435-1450",
+        "1440-1450",
+        "1430-1450",
+        "1430-1450",
+        "1430-1450",
+        "1430-1450",
+        "1435-1450",
+        "1438-1450",
+        "1430-1450",
+        "1435-1450",
+        "1430-1450",
+        "1430-1450",
+        "1430-1450",
+        "1430-1450",
+        "1435-1450",
+        "1435-1450",
+        "1435-1450",
+        "1440-1450",
+        "1435-1450",
+        "1435-1450",
+        "1435-1450",
+        "1435-1450",
+        "1435-1450",
+        "1430-1450",
+        "1430-1450",
+        "1430-1450",
+        "1430-1450",
+        "1430-1450",
+        "1430-1450",
+        "1435-1450",
+        "1435-1450",
+        "1430-1450",
+        "1430-1450",
+        "1430-1450",
+        "1430-1450",
+        "1438-1450",
+        "1435-1450",
+        "1430-1450",
+        "1430-1450",
+        "1435-1450",
+        "1435-1450",
+        "1435-1450",
+        "1438-1450",
+        "1430-1450",
+        "1430-1450",
+        "1430-1450",
+        "1430-1450",
+        "1435-1450",
+        "1435-1450",
+        "1430-1450",
+        "1440-1450",
+        "1430-1450",
+        "1435-1450",
+        "1435-1450",
+        "1430-1450",
+        "1430-1450",
+        "1430-1450",
+        "1435-1450",
+        "1435-1450",
+        "1435-1450",
+        "1435-1450",
+        "1430-1450",
+        "1440-1450",
+        "1435-1450",
+        "1435-1450",
+        "1435-1450",
+        "1430-1450"
+      ],
+      "control_parsed": [
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1460.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1460.0
+        ],
+        [
+          1440.0,
+          1460.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1445.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1436.0,
+          1454.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1460.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1460.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1460.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1445.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1460.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1460.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1460.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1445.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1460.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ]
+      ],
+      "treatment_parsed": [
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1455.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1438.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1438.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1438.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ],
+        [
+          1440.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1435.0,
+          1450.0
+        ],
+        [
+          1430.0,
+          1450.0
+        ]
+      ],
+      "parse_failures_control": 0,
+      "parse_failures_treatment": 0
+    },
+    {
+      "variant_id": "overconfidence_v3",
+      "control_responses": [
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Assuming typical laboratory measurement variability and using a 90% confidence interval, a reasonable estimate could be:\n\n**77.8 - 78.9** °C\n\nThis interval reflects typical small measurement uncertainties around the known boiling point.",
+        "78.0-78.5",
+        "78.0-79.0",
+        "The boiling point of ethanol is commonly known to be around 78.37°C at standard atmospheric pressure. However, to provide a 90% confidence interval, we need a mean and standard deviation from experimental data. Since precise experimental data is not provided here, I will use typical values from literature:\n\n- Mean boiling point: 78.37°C\n- Typical standard deviation from multiple measurements: approximately 0.1°C (this is an estimate)\n\nAssuming a normal distribution and a sample size large enough to use the Z-distribution:\n\nFor 90% confidence, the Z-value ≈ 1.645\n\nMargin of error = Z * (standard deviation / sqrt(n))\n\nIf we assume a sample size n = 30 (typical for lab experiments), then:\n\nStandard error = 0.1 / sqrt(30) ≈ 0.0183\n\nMargin of error = 1.645 * 0.0183 ≈ 0.0301\n\nTherefore, the 90% confidence interval is:\n\n78.37 ± 0.0301 → 78.34°C to 78.40°C\n\n**Answer:**\n\n78.34-78.40",
+        "78.0-79.0",
+        "78.0°C - 79.0°C",
+        "78.0°C - 78.5°C",
+        "78.0-78.5",
+        "78.0-79.0",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Assuming a typical experimental standard deviation of about 0.1°C and a large sample size, a 90% confidence interval can be roughly estimated.\n\nUsing a 90% confidence level, the z-value is approximately 1.645.\n\nIf we assume the standard error (SE) is 0.1°C (for example), then the margin of error (ME) = 1.645 × 0.1 = 0.1645°C.\n\nSo, the 90% confidence interval would be:\n\n78.37 - 0.16 to 78.37 + 0.16  \n= 78.21 - 78.53\n\n**Answer:**  \n78.21-78.53",
+        "78.0-78.5°C",
+        "78.0-78.5",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. The exact value can vary slightly depending on purity and measurement conditions.\n\nA typical 90% confidence interval for the boiling point of ethanol is roughly:\n\n**78.0 - 78.7°C**",
+        "78.0-78.5",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. A typical 90% confidence interval, considering slight variations due to measurement or purity, might be around:\n\n**78.0 - 78.7**",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Considering typical experimental variations, a 90% confidence interval might be around:\n\n**77.8 - 78.9** °C",
+        "78.0°C - 78.5°C",
+        "The boiling point of ethanol is approximately 78.37°C at standard atmospheric pressure. Assuming a small standard deviation from experimental measurements, a typical 90% confidence interval might be around:\n\n**78.0 - 78.7** °C\n\nIf you need a more precise interval, please provide the sample data or standard deviation.",
+        "78.0-79.0",
+        "78.0°C - 78.5°C",
+        "78.0-78.5",
+        "78.0-78.4",
+        "78.0-79.0",
+        "78.0-79.0",
+        "78.0-78.5",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. The exact boiling point can vary slightly depending on purity and measurement conditions, but typical experimental uncertainty might be around ±0.5°C.\n\nA 90% confidence interval might reasonably be approximated as:\n\n**77.9 - 78.9**",
+        "78.0°C - 78.5°C",
+        "The boiling point of ethanol is approximately 78.37°C. A typical 90% confidence interval, considering small variations due to purity and atmospheric pressure, might be about ±0.5°C.\n\n**90% confidence interval:** 77.9 - 78.9",
+        "78.0°C - 78.5°C",
+        "78.0-79.0",
+        "78.0-79.0",
+        "78.0-78.5",
+        "78.0-79.0",
+        "78.0°C - 78.5°C",
+        "78.0-79.0",
+        "78.0-79.0",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is typically about 78.37°C. Considering typical measurement variability and experimental uncertainty, a 90% confidence interval can be approximated as:\n\n**78.0 - 78.7**",
+        "78.0°C - 79.0°C",
+        "The boiling point of ethanol is typically around 78.37°C at standard atmospheric pressure. Assuming a small standard deviation due to measurement variability, a 90% confidence interval might be approximately:\n\n**77.8 - 78.9**\n\nIf you need a specific interval based on a dataset, please provide the sample mean, standard deviation, and sample size.",
+        "78.0-78.5",
+        "78.0°C - 78.5°C",
+        "78.0-79.0",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Based on typical measurement variability, a 90% confidence interval is roughly:\n\n**78.0 - 78.7** °C",
+        "78.1-78.5",
+        "The boiling point of ethanol is approximately 78.37°C at standard atmospheric pressure. Assuming a typical measurement uncertainty, a 90% confidence interval might be roughly ±0.5°C.\n\n**90% confidence interval:** 77.87-78.87",
+        "78.0-79.0",
+        "78.0°C - 78.5°C",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. A typical 90% confidence interval, considering measurement variation and literature values, might be around:\n\n**77.8 - 78.9** °C",
+        "78.0-79.0",
+        "78.0-79.0",
+        "78.0-79.0",
+        "78.0°C - 78.5°C",
+        "78.0-79.0",
+        "The boiling point of ethanol is typically around 78.37°C at standard atmospheric pressure. Assuming a small standard deviation due to measurement variations, a reasonable 90% confidence interval might be approximately:\n\n**78.0 - 78.7**",
+        "78.0-78.5",
+        "78.0-79.0",
+        "78.0-78.5",
+        "78.0-78.5",
+        "78.0°C - 78.5°C",
+        "78.1-78.5",
+        "78.0-78.5",
+        "78.0-78.5",
+        "78.0-79.5",
+        "A 90% confidence interval for the boiling point of ethanol is approximately:\n\n**77.0°C - 79.0°C**\n\n(Ethanol's normal boiling point is around 78.37°C, and considering typical measurement variability, this range captures the boiling point with 90% confidence.)",
+        "78.0-79.0",
+        "A commonly accepted boiling point of ethanol at standard atmospheric pressure is about 78.37°C. Assuming some typical measurement variability, a 90% confidence interval might be approximately:\n\n**78.0 - 78.7**\n\nIf you need a more precise interval based on specific data, please provide the sample mean, sample standard deviation, and sample size.",
+        "78.0-79.0",
+        "78.0°C - 78.5°C",
+        "78.0°C - 78.5°C",
+        "78.0-78.4",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Based on typical experimental variation, a 90% confidence interval might be roughly:\n\n78.0 - 78.7\n\n(Note: The exact interval depends on the sample data and variability, but this range reflects common precision around the known boiling point.)",
+        "The boiling point of ethanol is approximately 78.37°C. A typical 90% confidence interval for the boiling point of ethanol, considering small experimental variations, might be around:\n\n**77.5 - 79.2**\n\nThis range accounts for minor measurement uncertainty in standard laboratory conditions.",
+        "78.0-79.0",
+        "78.0-78.5",
+        "78.0-79.0",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Experimental measurements typically have some variation, but a reasonable 90% confidence interval might be about ±0.5°C around this value.\n\n**90% confidence interval:** 77.87 - 78.87",
+        "78.0°C - 78.5°C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C.\n\nTypical experimental measurements of the boiling point of ethanol have a small variability, often within ±0.1 to ±0.3°C. Assuming a standard deviation around 0.2°C and a normal distribution, a 90% confidence interval (which corresponds to roughly ±1.645 standard errors) can be estimated.\n\nIf the standard deviation is about 0.2°C and the sample size is large enough so that the standard error is small, the confidence interval might be roughly:\n\n78.37°C ± (1.645 × 0.2) = 78.37°C ± 0.33°C\n\nTherefore, the 90% confidence interval is approximately:\n\n**78.04-78.70**\n\nIf you want a more precise interval, please provide the sample data or standard deviation and sample size.",
+        "78.0-79.0",
+        "The boiling point of ethanol is approximately 78.37°C at standard atmospheric pressure. Assuming a small uncertainty, a typical 90% confidence interval might be around ±0.5°C.\n\n**90% confidence interval:** 77.9 - 78.9",
+        "78.0°C - 78.5°C",
+        "78.0-78.4",
+        "78.0°C - 78.4°C",
+        "78.0°C - 79.0°C",
+        "78.0-79.0",
+        "78.0-79.0",
+        "78.0°C - 78.5°C",
+        "The boiling point of ethanol is approximately 78.37°C. Assuming a small standard deviation for measurement variability (commonly around ±0.1°C to ±0.2°C in controlled conditions), a 90% confidence interval can be roughly estimated.\n\nUsing a standard deviation (σ) of 0.2°C and a z-value for 90% confidence (z ≈ 1.645):\n\nMargin of error = z * σ = 1.645 * 0.2 ≈ 0.33°C\n\nThus, the 90% confidence interval is:\n\n78.37 - 0.33 to 78.37 + 0.33 = 78.04 - 78.70\n\n**Answer:**  \n78.04-78.70",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C.  \n\nAssuming a typical standard deviation of about 0.1°C for precise measurements, and a normal distribution, a 90% confidence interval can be calculated as follows:\n\n- For a 90% confidence interval, the z-value ≈ 1.645  \n- Margin of error = z * standard deviation = 1.645 * 0.1 = 0.1645°C  \n\nTherefore, the 90% confidence interval is:  \n78.37 - 0.1645 to 78.37 + 0.1645 = 78.21°C to 78.53°C\n\n**Answer:**  \n78.21-78.53",
+        "78.0°C - 78.5°C",
+        "78.0-79.0",
+        "78.0-79.0",
+        "78.0-79.0",
+        "78.0°C - 78.5°C",
+        "78.0-78.5",
+        "78.0-79.0",
+        "78.0-79.0",
+        "78.0-78.5",
+        "78.0°C - 78.5°C",
+        "78.0°C - 78.5°C"
+      ],
+      "treatment_responses": [
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Experimental measurements typically have a small standard deviation, often around ±0.1 to ±0.3°C depending on purity and measurement method.\n\nAssuming a standard deviation of about 0.3°C and a normal distribution, a 90% confidence interval corresponds to approximately ±1.645 standard deviations from the mean.\n\nCalculating the margin of error:  \n1.645 × 0.3°C ≈ 0.49°C\n\nTherefore, the 90% confidence interval is:  \n78.37°C ± 0.49°C → 77.88°C to 78.86°C\n\n**Confidence interval:**  \n77.88-78.86",
+        "78.0°C - 78.4°C",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Considering typical experimental variations, a 90% confidence interval is roughly:\n\n**77.9 - 78.8** °C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Considering typical experimental variability, a 90% confidence interval for the boiling point of ethanol is approximately:\n\n**77.8 - 78.9** °C",
+        "The boiling point of ethanol is approximately 78.37°C at standard atmospheric pressure. Considering typical experimental variation, a 90% confidence interval might be around ±0.5°C.\n\n**90% confidence interval:** 77.87 - 78.87",
+        "78.0-79.0",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Based on typical experimental data and measurement uncertainties, a 90% confidence interval for the boiling point is roughly:\n\n**78.0 - 78.7** °C",
+        "The boiling point of ethanol is typically around 78.37°C. Considering experimental variations and a 90% confidence interval from typical data, the boiling point can be estimated approximately as:\n\n**77.8 - 78.9** °C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Based on typical experimental variability, a 90% confidence interval for the boiling point of ethanol is approximately:\n\n**77.9 - 78.8** °C",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Considering typical measurement variability and literature reports, a 90% confidence interval for the boiling point of ethanol is roughly:\n\n**77.8 - 78.9** °C",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Considering typical experimental variations and measurement uncertainties, a 90% confidence interval for the boiling point of ethanol is about:\n\n**77.9 - 78.8** °C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Based on typical experimental data, a 90% confidence interval for the boiling point of ethanol is roughly:\n\n**78.1°C - 78.6°C**",
+        "The boiling point of ethanol is typically around 78.37°C under standard atmospheric pressure. Considering experimental variations and measurement uncertainty, a 90% confidence interval for the boiling point of ethanol is approximately:\n\n**77.9 - 78.8** °C",
+        "77.0 - 79.0",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Considering typical experimental variability, a 90% confidence interval for the boiling point is roughly:\n\n**77.9 - 78.8** °C",
+        "78.0-79.0",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Based on typical experimental variations and literature data, a 90% confidence interval for the boiling point of ethanol is roughly:\n\n**77.9 - 78.8** °C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Based on typical experimental data, the standard deviation for boiling point measurements is around ±0.1°C.\n\nAssuming a normal distribution and using a 90% confidence level, the z-score is approximately 1.645.\n\nConfidence interval calculation:\n\n\\[ \\text{Margin of Error} = z \\times \\sigma = 1.645 \\times 0.1 = 0.1645 \\]\n\nSo, the 90% confidence interval is:\n\n\\[ 78.37 - 0.1645 \\text{ to } 78.37 + 0.1645 = 78.21 - 78.53 \\]\n\n**Answer:**\n\n78.21-78.53",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Considering typical experimental variations, a 90% confidence interval for the boiling point is roughly:\n\n78.0 - 78.7°C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Experimental measurements typically have some variability. Assuming a standard deviation of about ±0.5°C and a normal distribution of measurements, a 90% confidence interval can be estimated.\n\nUsing a z-value of approximately 1.645 for 90% confidence:\n\nConfidence interval = mean ± (z * standard deviation)\n\n= 78.37 ± (1.645 * 0.5)\n\n= 78.37 ± 0.8225\n\n= 77.55 - 79.19\n\n**Answer:** 77.55-79.19",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C, with a typical experimental uncertainty of about ±0.5°C.\n\nAssuming a normal distribution and using a 90% confidence interval (z-value ≈ 1.645), the confidence interval can be calculated as:\n\nConfidence Interval = mean ± (z * standard error)\n\nIf we take the standard error as 0.5°C (a reasonable estimate for experimental variation):\n\nLower bound = 78.37 - (1.645 * 0.5) ≈ 78.37 - 0.82 = 77.55°C  \nUpper bound = 78.37 + (1.645 * 0.5) ≈ 78.37 + 0.82 = 79.19°C\n\n**90% confidence interval:**\n\n77.55-79.19",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Based on typical experimental variations and literature values, a 90% confidence interval for the boiling point of ethanol is about:\n\n**77.8 - 78.9** °C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Based on typical experimental data, the standard deviation is about ±0.2°C.\n\nAssuming a normal distribution and a sample size that justifies a z-value of 1.645 for a 90% confidence interval:\n\nConfidence interval = Mean ± (z * standard deviation)\n\n= 78.37 ± (1.645 * 0.2)\n\n= 78.37 ± 0.329\n\nSo, the 90% confidence interval is approximately:\n\n**78.04 - 78.70**",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Considering typical experimental variability, a 90% confidence interval for the boiling point of ethanol is roughly:\n\n**77.8 - 78.9** °C",
+        "78.0-78.5",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Based on typical experimental variability and literature data, a 90% confidence interval for the boiling point of ethanol can be estimated as:\n\n**78.0 - 78.7** °C",
+        "78.0-78.5",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Considering typical experimental variations and measurement uncertainty, a 90% confidence interval for the boiling point of ethanol can be estimated as:\n\n**77.9 - 78.8** °C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Considering typical experimental variability, a 90% confidence interval for the boiling point is roughly:\n\n**77.8 - 78.9°C**",
+        "78.0°C - 78.9°C",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Based on typical experimental variations and literature data, a 90% confidence interval for the boiling point of ethanol is approximately:\n\n**78.1 - 78.7°C**",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Based on typical experimental variations, a 90% confidence interval might be around ±1°C.\n\n**90% Confidence Interval:** 77.4 - 79.4",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Considering typical experimental variations and measurement uncertainties, a 90% confidence interval for the boiling point is about:\n\n**77.9 - 78.8** °C",
+        "The boiling point of pure ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Considering typical experimental variations and literature values, a 90% confidence interval for the boiling point of ethanol is approximately:\n\n**78.0°C - 78.7°C**",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Considering experimental variability and literature values, a reasonable 90% confidence interval for the boiling point of ethanol is:\n\n**77.5 - 79.2°C**",
+        "The boiling point of ethanol is approximately 78.37°C under standard atmospheric pressure. Considering typical experimental variability, a 90% confidence interval for the boiling point of ethanol is approximately:\n\n**78.0 - 78.7** °C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Based on typical experimental data, the standard deviation for boiling point measurements is around ±0.2°C.\n\nAssuming a normal distribution and a 90% confidence level, the z-value is approximately 1.645.\n\nMargin of error (E) = z * (σ / √n)\n\nIf we assume a sample size n = 1 (single measurement), the margin of error is just the standard deviation times z:\n\nE = 1.645 * 0.2 = 0.329°C\n\nTherefore, the 90% confidence interval is approximately:\n\n78.37 - 0.33 to 78.37 + 0.33 = 78.04 - 78.70\n\n**Answer:**\n\n78.04-78.70",
+        "78.0-79.0",
+        "78.0°C - 78.5°C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Considering typical experimental variation and measurement uncertainty, a reasonable 90% confidence interval for the boiling point is about:\n\n**77.8 - 78.9** °C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Considering typical experimental variations, a 90% confidence interval for the boiling point is roughly:\n\n**77.8 - 78.9** °C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Experimental measurements typically have a small variability.\n\nAssuming a standard deviation of about ±0.5°C from repeated measurements and a normal distribution, a 90% confidence interval can be calculated as:\n\n\\[ \\text{CI} = \\bar{x} \\pm z \\times \\frac{\\sigma}{\\sqrt{n}} \\]\n\nFor a single measurement or approximate range, we often use:\n\n- \\( z \\) for 90% confidence ≈ 1.645\n- If we consider the standard deviation \\(\\sigma = 0.5\\)°C and \\( n = 1 \\) (single measurement), the margin of error is roughly \\(1.645 \\times 0.5 = 0.82\\)°C.\n\nSo, the 90% confidence interval is approximately:\n\n\\[ 78.37 - 0.82 \\; \\text{to} \\; 78.37 + 0.82 = 77.55 - 79.19 \\]\n\n**Answer:**\n\n77.55-79.19",
+        "The boiling point of ethanol is approximately 78.37°C with a small variation due to purity and atmospheric pressure.\n\nA typical 90% confidence interval for the boiling point of pure ethanol at standard atmospheric pressure is about:\n\n**78.0°C - 78.7°C**",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Experimental measurements typically have some variability due to impurities, pressure fluctuations, and measurement precision. A reasonable estimate for the standard deviation of boiling point measurements is about ±0.5°C.\n\nAssuming a normal distribution and a sample size large enough to use the z-distribution, a 90% confidence interval corresponds to a z-value of approximately 1.645.\n\nCalculating the 90% confidence interval:\n\n- Margin of error (E) = z * standard deviation = 1.645 * 0.5 ≈ 0.82°C\n- Lower bound = 78.37 - 0.82 = 77.55°C\n- Upper bound = 78.37 + 0.82 = 79.19°C\n\n**90% confidence interval:**  \n77.55-79.19",
+        "78.0-78.4",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Considering typical experimental variations, a 90% confidence interval for the boiling point of ethanol is roughly:\n\n**77.5 - 79.2** °C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. The measurement uncertainty is typically around ±0.1°C based on experimental data.\n\nAssuming a normal distribution and a standard deviation of about 0.1°C, a 90% confidence interval corresponds roughly to ±1.645 standard deviations.\n\nCalculation:\n- Margin of error = 1.645 × 0.1°C = 0.1645°C\n\nTherefore, the 90% confidence interval is approximately:\n\n**78.21°C - 78.54°C**",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Experimental measurements typically have a small variability. Assuming a standard deviation of about ±0.5°C based on typical laboratory measurements and using a 90% confidence interval:\n\nFor a 90% confidence interval, the z-value is approximately 1.645.\n\nConfidence interval = mean ± z * (standard deviation / √n)\n\nAssuming a single measurement or small sample, let's say n = 1 for simplicity (which makes the interval wide), or if we consider typical literature values, the uncertainty is about ±0.5°C.\n\nSo,\n\nLOW = 78.37 - 1.645 * 0.5 ≈ 78.37 - 0.82 = 77.55  \nHIGH = 78.37 + 1.645 * 0.5 ≈ 78.37 + 0.82 = 79.19\n\n**Answer:**\n\n77.55-79.19",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Considering typical experimental variations and measurement uncertainties, a 90% confidence interval is roughly:\n\n**77.9 - 78.8** °C",
+        "The boiling point of ethanol is approximately 78.37°C with a small standard deviation based on typical laboratory measurements.\n\nAssuming a standard deviation of about 0.1°C and a normal distribution, a 90% confidence interval would be roughly:\n\n78.3°C - 78.5°C\n\nSo, the 90% confidence interval for the boiling point of ethanol is:\n\n**78.3-78.5**",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Experimental measurements typically have a small variability, and a 90% confidence interval for the boiling point can be estimated based on typical measurement uncertainty.\n\nAssuming a standard deviation of about ±0.2°C from repeated measurements, the 90% confidence interval (using a z-value of approximately 1.645) is:\n\n78.37°C ± (1.645 × 0.2°C) = 78.37°C ± 0.329°C\n\n**Confidence interval:**  \n78.04 - 78.70",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Considering typical experimental variability and literature data, a 90% confidence interval for the boiling point of ethanol is roughly:\n\n**78.0 - 78.7** °C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Considering typical experimental variations, a 90% confidence interval for the boiling point is about:\n\n**77.9°C - 78.8°C**",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Based on typical experimental data, the standard deviation is about ±0.5°C.\n\nFor a 90% confidence interval, the z-value is approximately 1.645.\n\nCalculating the margin of error:\n\n\\( E = z \\times \\sigma = 1.645 \\times 0.5 = 0.8225 \\)\n\nTherefore, the 90% confidence interval is:\n\n\\( 78.37 - 0.82 \\) to \\( 78.37 + 0.82 \\)\n\nWhich is approximately:\n\n**77.55 - 79.19**",
+        "78.1-78.5",
+        "The boiling point of ethanol is typically around 78.37°C at standard atmospheric pressure. Considering experimental variability, a 90% confidence interval is approximately:\n\n**77.5 - 79.2** °C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Experimental measurements typically have a small standard deviation due to impurities and measurement conditions. Assuming a standard deviation of about 0.5°C and a normal distribution, a 90% confidence interval can be calculated.\n\nUsing a z-value of 1.645 for 90% confidence:\n\nMargin of error = 1.645 × 0.5 = 0.8225°C\n\nTherefore, the 90% confidence interval is:\n\n78.37 - 0.82 to 78.37 + 0.82 → 77.55 - 79.19\n\n**Answer:**\n\n77.55-79.19",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Considering typical experimental variability, a 90% confidence interval for the boiling point of ethanol is approximately:\n\n**77.8 - 78.9** °C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C, with a small variation due to measurement uncertainty.\n\nAssuming a typical standard deviation of about 0.1°C from multiple measurements, a 90% confidence interval can be calculated using the z-score for 90% confidence (z ≈ 1.645):\n\nConfidence interval = mean ± z * (σ/√n)\n\nFor a single measurement or small sample, let's assume n is large enough to approximate σ/√n ≈ 0.1°C.\n\nSo:\n\n78.37 ± 1.645 * 0.1 = 78.37 ± 0.1645\n\nTherefore, the 90% confidence interval is approximately:\n\n**78.21-78.54**",
+        "78.0-78.5",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Experimental measurements typically have a small standard deviation due to purity, atmospheric pressure variations, and measurement precision.\n\nAssuming a standard deviation of about 0.5°C and using a 90% confidence interval (z-value ≈ 1.645 for large samples), the confidence interval can be calculated as:\n\n**Confidence Interval = mean ± (z * (σ / √n))**\n\nWithout a specific sample size, let's consider a typical scenario with n = 10 measurements.\n\nStandard error (SE) = 0.5 / √10 ≈ 0.158\n\nMargin of error = 1.645 * 0.158 ≈ 0.26\n\nTherefore, the 90% confidence interval for the boiling point of ethanol is:\n\n**78.37 - 0.26 to 78.37 + 0.26 = 78.11 - 78.63**\n\n**Answer: 78.11-78.63**",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Based on typical experimental variations, a 90% confidence interval might be roughly ±0.5°C around this value.\n\n**90% confidence interval:**  \n**77.9 - 78.9** °C",
+        "78.0°C - 78.5°C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Experimental measurements typically have a small variation due to impurities and measurement conditions. Assuming a standard deviation of about 0.5°C from multiple measurements, and using a 90% confidence level (z ≈ 1.645 for large samples), the confidence interval can be calculated as:\n\nConfidence Interval = Mean ± z * (σ/√n)\n\nWithout a specific sample size, let's assume a reasonable n = 30 measurements:\n\nStandard error (SE) = 0.5 / √30 ≈ 0.091\n\nMargin of error = 1.645 * 0.091 ≈ 0.15\n\nThus, the 90% confidence interval for the boiling point is approximately:\n\n78.37 - 0.15 to 78.37 + 0.15 = 78.22°C to 78.52°C\n\n**Answer:**\n\n78.22-78.52",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C, with small variations due to impurities and measurement conditions. Based on typical experimental data, a reasonable 90% confidence interval for the boiling point of pure ethanol would be:\n\n**78.0 - 78.7** °C",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Considering typical experimental variations and measurement uncertainties, a 90% confidence interval for the boiling point is roughly:\n\n**77.8 - 78.9** °C",
+        "78.0-78.5",
+        "78.0-78.5",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Experimental measurements typically have a small variability. Assuming a standard deviation of about 0.5°C based on typical lab measurements and a normal distribution, a 90% confidence interval can be calculated.\n\nUsing a z-value of 1.645 for a 90% confidence level:\n\nConfidence interval = mean ± (z * standard deviation)\n\n= 78.37 ± (1.645 * 0.5)  \n= 78.37 ± 0.82\n\n**90% confidence interval:** 77.55°C - 79.19°C",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. The variability in literature values and experimental measurements is typically about ±0.5°C.\n\nUsing this, a 90% confidence interval for the boiling point of ethanol would be approximately:\n\n**77.9°C - 78.8°C**",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Experimental measurements typically have some variability. Assuming a standard deviation of about 0.5°C from repeated measurements and a normal distribution, a 90% confidence interval can be calculated.\n\nUsing the Z-value for 90% confidence (~1.645):\n\nMargin of error = 1.645 × 0.5 = 0.8225°C\n\nTherefore, the 90% confidence interval is:\n\n78.37 - 0.82 to 78.37 + 0.82 = **77.55 - 79.19**\n\n**Answer:**\n\n77.55-79.19",
+        "78.0°C - 78.5°C",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Considering typical experimental variation and literature data, a 90% confidence interval for the boiling point is roughly:\n\n**78.0°C - 78.7°C**",
+        "78.0-78.5",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Considering typical experimental variation and literature values, a reasonable 90% confidence interval for the boiling point of ethanol is:\n\n**77.5 - 79.2** °C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Based on typical experimental variation and literature data, a reasonable estimate for a 90% confidence interval might be:\n\n**77.9 - 78.8** °C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Experimental measurements typically have a small standard deviation due to impurities, measurement error, and atmospheric conditions.\n\nAssuming a standard deviation of about ±0.5°C and a normal distribution of measurements, a 90% confidence interval can be calculated using the z-value for 90% confidence, which is approximately 1.645.\n\nCalculation:\n- Margin of error = 1.645 × 0.5 = 0.8225°C\n- Lower bound = 78.37 - 0.82 ≈ 77.55°C\n- Upper bound = 78.37 + 0.82 ≈ 79.19°C\n\n**90% Confidence Interval:**\n\n77.55-79.19",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Typical experimental measurements show a standard deviation around ±0.5°C due to slight variations in purity and measurement conditions.\n\nAssuming a normal distribution and a 90% confidence interval:\n\n- The z-value for 90% confidence is approximately 1.645.\n- Margin of error = 1.645 × 0.5°C = 0.8225°C.\n\nTherefore, the 90% confidence interval is:\n\n**77.55°C - 79.20°C**",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Considering typical experimental variation and measurement uncertainty, a 90% confidence interval is roughly:\n\n**78.0 - 78.7** °C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. The typical experimental uncertainty is around ±0.5°C for common laboratory measurements.\n\nAssuming a normal distribution and using a standard deviation of about 0.5°C, a 90% confidence interval corresponds roughly to ±1.645 standard deviations from the mean:\n\nMargin of error = 1.645 × 0.5 = 0.8225°C\n\nTherefore, the 90% confidence interval for the boiling point of ethanol is approximately:\n\n77.55°C - 79.20°C",
+        "The boiling point of ethanol is commonly reported as approximately 78.37°C at standard atmospheric pressure. Considering typical experimental variations and measurement uncertainties, a 90% confidence interval is roughly:\n\n**77.8 - 78.9**",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Considering typical experimental variability and measurement uncertainty, a 90% confidence interval for the boiling point is roughly:\n\n**78.0 - 78.7** °C",
+        "The boiling point of pure ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Considering experimental variations and measurement uncertainty, a typical 90% confidence interval for the boiling point of ethanol is about:\n\n**78.0 - 78.7** °C",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Typical experimental measurements show slight variations due to impurities and measurement conditions. Assuming a standard deviation of about 0.5°C based on typical lab data, and a normal distribution, a 90% confidence interval can be calculated.\n\nFor a 90% confidence interval, the z-value is approximately 1.645.\n\nUsing the formula:\n\nCI = mean ± z * (σ / √n)\n\nAssuming a sample size n = 10 (typical for a small lab study):\n\nStandard error (SE) = 0.5 / √10 ≈ 0.158\n\nMargin of error = 1.645 * 0.158 ≈ 0.26\n\nTherefore:\n\nLower bound = 78.37 - 0.26 = 78.11°C  \nUpper bound = 78.37 + 0.26 = 78.63°C\n\n**90% Confidence Interval:**\n\n78.11-78.63",
+        "78.0-79.0",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Typical experimental measurements have a standard deviation of about ±0.1°C due to slight variations in conditions and measurement precision.\n\nAssuming a normal distribution and a 90% confidence level, the z-value is approximately 1.645.\n\nIf we take the standard deviation (σ) as 0.1°C, the margin of error (ME) is:\n\nME = z * σ = 1.645 * 0.1 = 0.1645°C\n\nSo, the 90% confidence interval is:\n\n78.37 - 0.16 to 78.37 + 0.16 → 78.21 - 78.53\n\n**Answer:**\n\n78.21-78.53",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. The typical experimental uncertainty for the boiling point measurement of ethanol is about ±0.1 to ±0.3°C depending on the precision of the equipment.\n\nAssuming a standard deviation (σ) of about 0.3°C and a normal distribution, a 90% confidence interval corresponds to approximately ±1.645 standard deviations around the mean.\n\nCalculation:\n- Margin of error = 1.645 × 0.3°C ≈ 0.49°C\n- Lower bound = 78.37 - 0.49 = 77.88°C\n- Upper bound = 78.37 + 0.49 = 78.86°C\n\n**90% Confidence Interval:**\n\n77.88-78.86",
+        "The boiling point of ethanol at standard atmospheric pressure is approximately 78.37°C. Considering typical experimental variation, a 90% confidence interval for the boiling point is about:\n\n**77.8 - 78.9** °C",
+        "78.0-78.5",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Considering typical experimental variations, a 90% confidence interval for the boiling point is roughly:\n\n**77.9 - 78.8** °C",
+        "77.0°C - 79.0°C",
+        "77.3°C - 78.7°C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Experimental measurements typically have a small standard deviation due to purity and measurement conditions. Assuming a standard deviation of about 0.5°C for boiling point measurements and a normal distribution, a 90% confidence interval can be calculated.\n\nUsing the formula for a confidence interval:\n\n\\[\n\\text{CI} = \\bar{x} \\pm z \\times \\frac{\\sigma}{\\sqrt{n}}\n\\]\n\nFor a single measurement or typical range, and without a sample size \\( n \\), we usually consider the range based on standard deviation and z-value for 90% confidence (z ≈ 1.645).\n\nApproximate 90% confidence interval:\n\n\\[\n78.37 \\pm 1.645 \\times 0.5 = 78.37 \\pm 0.82\n\\]\n\nSo,\n\n**77.55 - 79.19**\n\n**Answer:** 77.55-79.19",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Based on typical experimental variability, a 90% confidence interval for the boiling point would be roughly:\n\n**78.0 - 78.7°C**",
+        "77.5-78.5",
+        "78.0-78.5",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37 °C. Based on typical experimental variations and literature values, a reasonable estimate for a 90% confidence interval would be around ±0.5 °C.\n\n**90% Confidence Interval:** 77.9 - 78.9",
+        "78.0°C - 78.5°C",
+        "The boiling point of ethanol at standard atmospheric pressure (1 atm) is approximately 78.37°C. Based on typical experimental data, the standard deviation is about ±0.5°C.\n\nAssuming a normal distribution and using a 90% confidence level, the z-value is approximately 1.645.\n\nConfidence interval = mean ± (z * standard deviation)\n\n= 78.37 ± (1.645 * 0.5)\n\n= 78.37 ± 0.8225\n\nSo, the 90% confidence interval for the boiling point of ethanol is:\n\n**77.55 - 79.19°C**",
+        "The boiling point of ethanol is typically around 78.37°C. Assuming a standard deviation of about 0.5°C from various measurements and a sample size large enough for a normal approximation, a 90% confidence interval can be calculated.\n\nUsing a z-score of approximately 1.645 for 90% confidence:\n\nMargin of error = 1.645 * 0.5 = 0.8225°C\n\nSo, the 90% confidence interval is:\n\n78.37 - 0.82 to 78.37 + 0.82 = **77.55 - 79.19**\n\n**Answer:** 77.55-79.19"
+      ],
+      "control_parsed": [
+        [
+          77.8,
+          78.9
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.34,
+          78.4
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          0.16,
+          78.37
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          77.8,
+          78.9
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.4
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          77.9,
+          78.9
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          77.9,
+          78.9
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          77.8,
+          78.9
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          78.1,
+          78.5
+        ],
+        [
+          77.87,
+          78.87
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          77.8,
+          78.9
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.1,
+          78.5
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          79.5
+        ],
+        [
+          77.0,
+          90.0
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.4
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          77.5,
+          79.2
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          77.87,
+          78.87
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.04,
+          78.7
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          77.9,
+          78.9
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.4
+        ],
+        [
+          78.0,
+          78.4
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          0.33,
+          78.37
+        ],
+        [
+          0.1645,
+          78.37
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.5
+        ]
+      ],
+      "treatment_parsed": [
+        [
+          77.88,
+          78.86
+        ],
+        [
+          78.0,
+          78.4
+        ],
+        [
+          77.9,
+          78.8
+        ],
+        [
+          77.8,
+          78.9
+        ],
+        [
+          77.87,
+          78.87
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          77.8,
+          78.9
+        ],
+        [
+          77.9,
+          78.8
+        ],
+        [
+          77.8,
+          78.9
+        ],
+        [
+          77.9,
+          78.8
+        ],
+        [
+          1.0,
+          78.37
+        ],
+        [
+          77.9,
+          78.8
+        ],
+        [
+          77.0,
+          79.0
+        ],
+        [
+          77.9,
+          78.8
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          77.9,
+          78.8
+        ],
+        [
+          0.1645,
+          78.37
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          77.55,
+          79.19
+        ],
+        [
+          0.82,
+          78.37
+        ],
+        [
+          77.8,
+          78.9
+        ],
+        [
+          78.04,
+          78.7
+        ],
+        [
+          77.8,
+          78.9
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          77.9,
+          78.8
+        ],
+        [
+          77.8,
+          78.9
+        ],
+        [
+          78.0,
+          78.9
+        ],
+        [
+          78.1,
+          78.7
+        ],
+        [
+          77.4,
+          79.4
+        ],
+        [
+          77.9,
+          78.8
+        ],
+        [
+          1.0,
+          78.37
+        ],
+        [
+          77.5,
+          79.2
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          0.33,
+          78.37
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          77.8,
+          78.9
+        ],
+        [
+          77.8,
+          78.9
+        ],
+        [
+          0.82,
+          78.37
+        ],
+        [
+          78.37,
+          90.0
+        ],
+        [
+          0.82,
+          78.37
+        ],
+        [
+          78.0,
+          78.4
+        ],
+        [
+          77.5,
+          79.2
+        ],
+        [
+          1.0,
+          78.37
+        ],
+        [
+          1.645,
+          78.37
+        ],
+        [
+          77.9,
+          78.8
+        ],
+        [
+          78.3,
+          78.5
+        ],
+        [
+          78.04,
+          78.7
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          1.0,
+          78.37
+        ],
+        [
+          0.82,
+          78.37
+        ],
+        [
+          78.1,
+          78.5
+        ],
+        [
+          77.5,
+          79.2
+        ],
+        [
+          0.82,
+          78.37
+        ],
+        [
+          77.8,
+          78.9
+        ],
+        [
+          78.21,
+          78.54
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          0.26,
+          78.37
+        ],
+        [
+          77.9,
+          78.9
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          0.15,
+          78.37
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          77.8,
+          78.9
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          1.0,
+          78.37
+        ],
+        [
+          0.5,
+          78.37
+        ],
+        [
+          0.82,
+          78.37
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          78.37,
+          90.0
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          77.5,
+          79.2
+        ],
+        [
+          77.9,
+          78.8
+        ],
+        [
+          0.82,
+          78.37
+        ],
+        [
+          1.0,
+          78.37
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          1.0,
+          78.37
+        ],
+        [
+          77.8,
+          78.9
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          0.26,
+          78.37
+        ],
+        [
+          78.0,
+          79.0
+        ],
+        [
+          0.16,
+          78.37
+        ],
+        [
+          0.49,
+          78.37
+        ],
+        [
+          77.8,
+          78.9
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          77.9,
+          78.8
+        ],
+        [
+          77.0,
+          79.0
+        ],
+        [
+          77.3,
+          78.7
+        ],
+        [
+          77.55,
+          79.19
+        ],
+        [
+          78.0,
+          78.7
+        ],
+        [
+          77.5,
+          78.5
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          77.9,
+          78.9
+        ],
+        [
+          78.0,
+          78.5
+        ],
+        [
+          77.55,
+          79.19
+        ],
+        [
+          0.82,
+          78.37
+        ]
+      ],
+      "parse_failures_control": 0,
+      "parse_failures_treatment": 0
+    }
+  ]
+}
